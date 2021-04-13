@@ -1,0 +1,6 @@
+D:\Practice\SampleDemoSpeedIdentity\DataStructure\bin\Debug\DataStructure.dll
+D:\Practice\SampleDemoSpeedIdentity\DataStructure\bin\Debug\DataStructure.pdb
+D:\Practice\SampleDemoSpeedIdentity\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+D:\Practice\SampleDemoSpeedIdentity\DataStructure\obj\Debug\DataStructure.dll
+D:\Practice\SampleDemoSpeedIdentity\DataStructure\obj\Debug\DataStructure.pdb
+D:\Practice\SampleDemoSpeedIdentity\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache

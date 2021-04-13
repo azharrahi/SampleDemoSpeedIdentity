@@ -1,0 +1,6 @@
+D:\Practice\SampleDemoSpeedIdentity\Calculator\bin\Debug\Calculator.dll
+D:\Practice\SampleDemoSpeedIdentity\Calculator\bin\Debug\Calculator.pdb
+D:\Practice\SampleDemoSpeedIdentity\Calculator\obj\Debug\CalculatorSample.csproj.CoreCompileInputs.cache
+D:\Practice\SampleDemoSpeedIdentity\Calculator\obj\Debug\Calculator.dll
+D:\Practice\SampleDemoSpeedIdentity\Calculator\obj\Debug\Calculator.pdb
+D:\Practice\SampleDemoSpeedIdentity\Calculator\obj\Debug\CalculatorSample.csprojAssemblyReference.cache

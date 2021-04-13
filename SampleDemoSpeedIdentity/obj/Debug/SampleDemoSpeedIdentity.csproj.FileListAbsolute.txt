@@ -1,0 +1,9 @@
+D:\Practice\SampleDemoSpeedIdentity\SampleDemoSpeedIdentity\bin\Debug\SampleDemoSpeedIdentity.exe.config
+D:\Practice\SampleDemoSpeedIdentity\SampleDemoSpeedIdentity\bin\Debug\SampleDemoSpeedIdentity.exe
+D:\Practice\SampleDemoSpeedIdentity\SampleDemoSpeedIdentity\bin\Debug\SampleDemoSpeedIdentity.pdb
+D:\Practice\SampleDemoSpeedIdentity\SampleDemoSpeedIdentity\obj\Debug\SampleDemoSpeedIdentity.csprojAssemblyReference.cache
+D:\Practice\SampleDemoSpeedIdentity\SampleDemoSpeedIdentity\obj\Debug\SampleDemoSpeedIdentity.Properties.Resources.resources
+D:\Practice\SampleDemoSpeedIdentity\SampleDemoSpeedIdentity\obj\Debug\SampleDemoSpeedIdentity.csproj.GenerateResource.cache
+D:\Practice\SampleDemoSpeedIdentity\SampleDemoSpeedIdentity\obj\Debug\SampleDemoSpeedIdentity.csproj.CoreCompileInputs.cache
+D:\Practice\SampleDemoSpeedIdentity\SampleDemoSpeedIdentity\obj\Debug\SampleDemoSpeedIdentity.exe
+D:\Practice\SampleDemoSpeedIdentity\SampleDemoSpeedIdentity\obj\Debug\SampleDemoSpeedIdentity.pdb
